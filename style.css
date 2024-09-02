@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .header{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 40px;
+    padding-top: 0px;
+}
+.logo , img{
+    width: 150px;
+    margin-top: -10px;
+}
+.nav-items > ul{
+    display: flex;
+}
+.nav-items>ul>li{
+    padding: 30px;
+    list-style: none;
+    padding-top: 10px;
+}
+.res-card{
+    width: 180px;
+    /* height: 300px; */
+    /* border: 1.5px solid rgb(25, 24, 24);
+    padding: 5px;
+    margin: 20px;
+    overflow: hidden;
+}
+.res-img{
+    width: 178px;
+    height: 120px;
+    margin-top: 2px;
+}
+.res-cont{
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-evenly; */
+    /* margin-top: 18px;
+}
+.Shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.shimmer-cards{
+    width: 190px;
+    height: 350px;
+    background-color: #f0f0f0;
+    margin : 20px;
+    margin-top: 50px;
+}
+.filter{
+    margin-left: 11px;
+    display: flex  ;
+}
+.top {
+    width: 155px;
+    height: 20px;
+    background-color: #f0f0f0;
+    margin-left : 5px;
+    margin-top: 7px;
+}
+.search{
+    margin-left: 11px;
+}
+.sh{
+    display: flex;
+    margin-top: 2px;
+}
+.search-shimmer{
+    width: 220px;
+    height:20px;
+    background-color: #f0f0f0;
+    margin: 7px;
+    margin-left: 16px;
+}  */
+
+/* .logo{
+    mix-blend-mode: multiply;
+} */
